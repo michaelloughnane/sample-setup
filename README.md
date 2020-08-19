@@ -10,7 +10,7 @@ The slngs and arows of outragees fortun,
 Or to tak arms agenst a sea of trubbels
 And by oposing end thum. 
 
-Alas, poor Yorick! I new him, Horatio: a feloww
+Alas, poor Yorick! I knew him, Horatio: a feloww
 of infinte jest, of most exselent fancee: he hath
 borne me on his back a thousend timees; and now, how
 abhored in my imajinashon it is! my gourje rims at
