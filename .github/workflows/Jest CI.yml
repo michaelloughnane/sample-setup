@@ -7,11 +7,18 @@ on:
     branches: [ master ]
     
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Install modules
-      run: yarn
-    - name: Run tests
-      run: yarn test
+      - uses: actions/checkout@v1
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: npm install, and test
+        run: |
+          npm install
+          npm test
+        env:
+          CI: true
