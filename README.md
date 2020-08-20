@@ -17,3 +17,8 @@ abhored in my imajinashon it is! my gourje rims at
 it. Here hung those lips that I hav kised I know
 not how oft. Where be yer gibes now? yor
 gambols? yur songs?
+
+
+credits:
+https://www.valentinog.com/blog/jest/
+https://github.com/marketplace/actions/run-pyspelling-as-a-github-action
