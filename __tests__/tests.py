@@ -1,3 +1,4 @@
+import sample-setup
 from src.fibonacci import recur_fibo
 
 def test_smallFib():
