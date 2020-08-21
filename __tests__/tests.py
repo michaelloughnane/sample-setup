@@ -1,3 +1,5 @@
+from src import recur_fibo
+
 def test_smallFib():
   assert recur_fibo(1) == 1, "Should be 1"
   
