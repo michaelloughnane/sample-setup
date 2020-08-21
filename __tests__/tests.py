@@ -1,3 +1,5 @@
+print(sys.path)
+
 import sample-setup
 from src.fibonacci import recur_fibo
 
