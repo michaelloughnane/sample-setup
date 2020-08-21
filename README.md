@@ -24,3 +24,7 @@ credits:
 https://www.valentinog.com/blog/jest/
 
 https://github.com/marketplace/actions/run-pyspelling-as-a-github-action
+
+https://realpython.com/python-testing/#writing-your-first-test
+
+https://www.programiz.com/python-programming/examples/fibonacci-recursion
