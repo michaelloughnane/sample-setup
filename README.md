@@ -21,6 +21,30 @@ Explanation of things:
   Jest can be utilized without any community actions, actually, so we've gone ahead and done that here. The actual function and associated test were taken from a jest tutorial I found online, since they wrote things in a pretty easy to parse way even if you don't know javascript. For example, I do not know javascript and I could read what was going on. For real implementation, maybe have more relevant code that interacts with the python in some way (or not - they could be two completely separate things. Grouping this separately from the python and spellchecker could make sense if we decide to focus the other two on a "how to implement community actions" sorta thing. It's not a hard thing to do, but it might be conceptually "out there" enough to warrant its own assignment)
   
   
+  
+  
+  ## Week by week timeline - 
+  
+  These topics could probably cover two weeks, with...
+  
+  __Week 1 Project/Homework: Jest implementation__
+  
+  Jest's implementation is not only built in to GitHub actions, but is very similar to the workflow used in parts 1 and 2 of the learning lab tutorials. Starting with a softball. The specific javascript code I'm unsure of, since I don't know javascript, but I can get help with that. A very basic concept for a website maybe? 
+  
+  __Week 2 Project/Homework: Pytest + Spellchecker__
+  
+  Grouping together the two community-based actions, since they might require some troubleshooting for students to implement. Not difficult per se, but some of the steps to get these actions working as intended can be finicky, and hints might be offered throughout the week to address this. Maybe this could actively integrate the two things into a single project? Have the python manipulate a .md or .txt file that then gets spellchecked? Might be a bit cute. We could have the python do something involving website design and then spellcheck the contents of the page - again, would need help realizing this.
+  
+  
+  
+The livestream format would be pretty straight forward -
+  1. intro
+  2. covering the prior week's project and taking questions/troubleshooting
+  3. supplemental material relevant to lessons (if any) 
+  4. lessons
+  5. go over the next week's project
+  
+ Week 1 would cover lessons 1 and 2, week 2 would cover lessons 3, 4, and 5 (pending the consolidation of 4 and 5 - they're quite similar), and week 3 would cover 6 and 7. 
 
 ### credits (maybe incomplete? I made this after the fact and might have forgotten some stuff):
 
