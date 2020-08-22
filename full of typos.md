@@ -1,4 +1,4 @@
-this is our sampul teste file! it is fulll of typos! were going to try to impelmentt a spel chek tester with github acshions to se if it can decifer thsi mess!
+this is our simpul sampul teste file! it is fulll of typos! were going to try to impelmentt a spel chek tester with github acshions to se if it can decifer thsi mess!
 
 To be, or not to be, thaat is te qustionn:
 Wether 'tis noblr in the midn to sufer
