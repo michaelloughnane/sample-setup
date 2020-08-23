@@ -2,7 +2,7 @@
 
 __Quick disclaimer:__
 
-The files here are all thrown together in a haphazard mess because I was just trying to get all three things working without much regard to them interacting with each other. In reality, a lot of cleaning up could be done here (although some things naturally cause issues - the \_\_test__ directory is necessary for jest, but trying to put the python test in there will cause a lot of difficulties. Even if I can figure it out (which I couldn't, see \#troubleshooting in the discord), I doubt students could)
+The files here are all hastily thrown together in a haphazard mess because I was just trying to get all three things working without much regard to them interacting with each other. In reality, a lot of cleaning up could be done here (although some things naturally cause issues - the \_\_test__ directory is necessary for jest, but trying to put the python test in there will cause a lot of difficulties. Even if I can figure it out (which I couldn't, see \#troubleshooting in the discord), I doubt students could)
 
 
 
