@@ -52,7 +52,7 @@ https://github.com/marketplace/actions/run-pyspelling-as-a-github-action
 
 https://www.valentinog.com/blog/jest/
 
-https://github.com/marketplace/actions/run-pyspelling-as-a-github-action
+https://docs.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions
 
 https://realpython.com/python-testing/#writing-your-first-test
 
